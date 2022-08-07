@@ -1,0 +1,65 @@
+.main{
+    
+    text-align: center;
+    display:block;
+    padding-left:200px;
+}
+.header1{
+     
+    width: 1337px;
+    height: 318px; 
+    display:block;
+}
+.a1{
+    position: absolute;
+top: 336px;
+left: 572px;
+border-right: 2px solid blue;
+padding: 4px;
+
+
+
+}
+.a2{
+    position: absolute;
+top: 336px;
+right: 800px;
+border-right: 2px solid blue;
+padding: 4px;
+
+
+
+}
+.a3{
+    position: absolute;
+top: 336px;
+
+left: 736px;
+padding: 4px;
+
+
+
+}
+.footer{
+    width: 180px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+
+.jain{
+    position: absolute;
+    top: 380px;
+}  
+.jain1{
+    position: absolute;
+    top: 420px;  
+}
+.jai{
+    position: absolute;
+    top: 379px;
+}
+.jai1{
+    position: absolute;
+    top: 420px;
+}
